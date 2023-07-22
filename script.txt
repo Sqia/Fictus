@@ -1,0 +1,4 @@
+# Struggle
+- data scramble, the data encoding, unicode, structure is messy (i need to clean and format the data first)
+- Unrealiable deployment (server/hardware issue)
+- To much to do (i am doing this solo with no team, i have a limited stamina)
